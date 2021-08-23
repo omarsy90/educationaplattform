@@ -81,28 +81,28 @@ visibility: hidden;
   <table  dir="rtl" style="margin-left: 0px;">
     
     <tr>
-      <td><a  href="index.php" >الصفحة الرئيسية</a></td>
+      <td><a  href="index.php" >Home page</a></td>
 
-<td class="teacher"> <a href="addlektion.php">اضافة درس</a> </td>
+<td class="teacher"> <a href="addlektion.php"> add leson</a> </td>
 
-     <td class="alle" > <a href="courses.php">الكورسات</a> </td>
-     <td class="admin"> <a href="addcourse.php">اضافة كورس</a> </td>
-     <td class="admin"> <a href="teachers.php">المعلمين</a> </td>
+     <td class="alle" > <a href="courses.php"> courses </a> </td>
+     <td class="admin"> <a href="addcourse.php"> add course</a> </td>
+     <td class="admin"> <a href="teachers.php"> teachers</a> </td>
 
-     <td class="admin"><a  href="addteacher.php" >اضافة معلم</a></td>
+     <td class="admin"><a  href="addteacher.php" >add teacher</a></td>
     
-     <td class="admin"> <a href="students.php">الطلاب </a> </td>
-     <td class="admin"> <a href="addstudent.php">اضافة طالب</a> </td>
+     <td class="admin"> <a href="students.php">     students    </a>  </td>
+     <td class="admin"> <a href="addstudent.php"> add student   </a> </td>
       
       
-      <td class="admin"> <a href="addaltestudent.php"> اضافة طالب موجود </a> </td>
+      <td class="admin"> <a href="addaltestudent.php"> add old studnt </a> </td>
        
-       <td class="teacher"> <a href="addtest.php"> اضافة امتحان</a></td>
-       <td class="alle"> <a href="test.php"> امتحانات</a></td>
+       <td class="teacher"> <a href="addtest.php"> add exam <a></td>
+       <td class="alle"> <a href="test.php"> exams  </a></td>
       
 
-      <td class="in"> <a href="signin.php"> تسجيل الدخول  </a> </td>
-      <td class="out"> <a href="signout.php">  تسجيل خروج </a> </td>
+      <td class="in"> <a href="signin.php">  LOG IN   </a> </td>
+      <td class="out"> <a href="signout.php">  LOG OUT </a> </td>
      
     </tr>
   </table>

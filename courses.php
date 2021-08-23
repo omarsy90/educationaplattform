@@ -182,7 +182,7 @@ echo ('</div>');
          
          echo ' <form  action="lektions.php" method="post">
 <input type="hidden" name="idcourse"   value="'.$row['id'].'"> 
-<input type="submit" value="دخول" id="edit" class="btm">
+<input type="submit" value="ENTER"     id="edit" class="btm">
 
 </form> ';
 
@@ -195,7 +195,7 @@ echo ('</div>');
          
          echo ' <form  action="detilscourse.php" method="post">
 <input type="hidden" id="idcourse" value="'.$row['id'].'" name="idcourse" >
-<input type="submit" value="تفاصيل" id="edit"  class="btm">
+<input type="submit" value="DETEILS"   id="edit"  class="btm">
 
 </form> ';
 
@@ -276,7 +276,7 @@ echo ('</div>');
          
          echo ' <form  action="lektions.php" method="post">
 <input type="hidden" name="idcourse"   value="'.$row['id'].'">
-<input type="submit" value="دخول" id="edit"  class="btm">
+<input type="submit" value="  ENTER "       id="edit"  class="btm">
 
 </form> ';
 
@@ -293,7 +293,7 @@ echo ('</div>');
          
          echo ' <form  action="detilscourse.php" method="post">
 <input type="hidden" id="idcourse" value="'.$row['id'].'" name="idcourse" >
-<input type="submit" value="تفاصيل" id="edit" class="btm">
+<input type="submit" value=" DETEILS "      id="edit" class="btm">
 
 </form> ';
 
@@ -406,7 +406,7 @@ echo ('</div>');
          
          echo ' <form  action="lektions.php" method="post">
 <input type="hidden" name="idcourse"   value="'.$row['id'].'">
-<input type="submit" value="دخول" id="edit" class="btm">
+<input type="submit" value="  ENTER "  id="edit" class="btm">
 
 </form> ';
 
@@ -423,7 +423,7 @@ echo ('</div>');
          
          echo ' <form  action="detilscourse.php" method="post">
 <input type="hidden" id="idcourse" value="'.$row['id'].'" name="idcourse" >
-<input type="submit" value="تفاصيل" id="edit"  class="btm">
+<input type="submit" value="DETEILS "    id="edit"  class="btm">
 
 </form> ';
 
